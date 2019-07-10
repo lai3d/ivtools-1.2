@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"classes.h": "c",
+			"globals.h": "c"
+		}
+	}
+}
